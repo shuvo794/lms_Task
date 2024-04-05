@@ -31,7 +31,7 @@ export const Quiz = ({
         percentage={percentage}
         hasActiveSubcription={!!userSubcrition?.isActive}
       />
-      <h2 className="text-5xl font-bold text-neutral-700 ml-3 text-center animate-pulse mt-[150px]">
+      <h2 className="text-5xl font-bold text-green-700 ml-3 text-center animate-pulse mt-[150px]">
         Features is Coming Soon
       </h2>
     </>
