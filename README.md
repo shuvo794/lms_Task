@@ -6,7 +6,9 @@
 
 <p>User Interface</p>
 
-<img width="955" alt="Screenshot 2024-04-05 152358" src="https://github.com/shuvo794/lms_Task/assets/81945670/ff19fb2d-4618-4d49-91e2-aa6637dbd663">
+<img width="505" alt="Screenshot 2024-04-05 152358" src="https://github.com/shuvo794/lms_Task/assets/81945670/ff19fb2d-4618-4d49-91e2-aa6637dbd663">
+
+<img width="508" alt="Screenshot 2024-04-05 153447" src="https://github.com/shuvo794/lms_Task/assets/81945670/f7a56009-2045-47bd-aa21-fc4a18bd8488">
 
 <p><b>Next JS </b><br/>
 Full Project is Based on NextJS. We have used many components to Build the site.</p>
