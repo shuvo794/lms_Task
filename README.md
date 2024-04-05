@@ -19,4 +19,4 @@ We have Used shadcn ui to design our site .</p>
 We have Used drizzle to  our server site .</p>
 
 ##vercel LIVE SITE LINK
-[LiveSite](https://linga-app.vercel.app/)
+[LiveSite]()
