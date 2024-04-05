@@ -5,7 +5,8 @@
 <b>~ Technologies Used for Building the site ~</b>
 
 <p>User Interface</p>
-![Uploading screencapture-localhost-3000-2024-04-05-15_16_21.png…]()
+
+<img width="955" alt="Screenshot 2024-04-05 152358" src="https://github.com/shuvo794/lms_Task/assets/81945670/ff19fb2d-4618-4d49-91e2-aa6637dbd663">
 
 <p><b>Next JS </b><br/>
 Full Project is Based on NextJS. We have used many components to Build the site.</p>
